@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 
 namespace LogPerformance{
-  public static class Scrap{
+  public static class MyCode{
   
     delegate void ToEvaluate(string format);
         
